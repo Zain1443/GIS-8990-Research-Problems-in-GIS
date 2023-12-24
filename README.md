@@ -1,0 +1,1 @@
+This is an independent study involving a comprehensive spatial-temporal analysis of air quality within the Minneapolis metropolitan areas across time, including seasons of the year, days of the week, hours of the day. 
